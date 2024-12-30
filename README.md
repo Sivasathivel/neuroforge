@@ -1,2 +1,2 @@
 # NeuroForge
-Support NeuroForge: [paypal.me/sivasathivel]
+Support NeuroForge: [PayPal](paypal.me/sivasathivel)
